@@ -1,6 +1,7 @@
 ## Challenge 15 - Precing Table - <a href="https://www.rocketseat.com.br/boracodar/desafios-anteriores/um-pricing-table-desafio-15">#BoraCodar</a>
 Develop a Princing Table Component.
 
+<img width="1406" alt="image" src="https://user-images.githubusercontent.com/28486303/235980595-d37f695c-9afd-4a3a-bd20-33d29a1f4148.png">
 
 ## 🛠️ In this project was used
 - React
